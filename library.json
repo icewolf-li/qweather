@@ -2,7 +2,7 @@
   "name": "qweather",
   "version": "1.0.0",
   "description": "一个基于Arduino的和风天气查询库",
-  "keywords": "qweather, Arduino, weather, 和风天气, 和风天气API, 和风天气查询, 和风天气库, 和风天气查询库, 和风天气查询库",
+  "keywords": "qweather, Arduino, weather, hefeng, weatherapi, qweather.com",
   "repository":
   {
     "type": "git",
@@ -12,10 +12,12 @@
   [
     {
       "name": "icewolf-li",
-      "email": "leegwocheng@outlook.com"
+      "email": "leegwocheng@outlook.com",
+      "url": "https://github.com/icewolf-li/"
     },
     {
       "name": "icewolf-li",
+      "email": "leegwocheng@outlook.com",
       "url": "https://github.com/icewolf-li",
       "maintainer": true
     }
