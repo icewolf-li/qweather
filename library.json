@@ -1,0 +1,31 @@
+{
+  "name": "qweather",
+  "version": "1.0.0",
+  "description": "一个基于Arduino的和风天气查询库",
+  "keywords": "qweather, Arduino, weather, 和风天气, 和风天气API, 和风天气查询, 和风天气库, 和风天气查询库, 和风天气查询库",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/icewolf-li/qweather"
+  },
+  "authors":
+  [
+    {
+      "name": "icewolf-li",
+      "email": "leegwocheng@outlook.com"
+    },
+    {
+      "name": "icewolf-li",
+      "url": "https://github.com/icewolf-li",
+      "maintainer": true
+    }
+  ],
+  "license": "GNU GENERAL PUBLIC LICENSE",
+  "homepage": "https://github.com/icewolf-li/qweather",
+  "dependencies": {
+    "ArduinoJson": "^6.19.2",
+    "ArduinoUZlib": "^1.0.2"
+  },
+  "frameworks": "*",
+  "platforms": "Espressif_32, Espressif_8266"
+}
