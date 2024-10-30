@@ -33,9 +33,9 @@
   "examples": [
     {
       "name": "qweather",
-      "base": "examples/main.cpp",
+      "base": "example/main.cpp",
       "files": [
-        "examples/main.cpp"
+        "example/main.cpp"
       ]
     }
   ]
