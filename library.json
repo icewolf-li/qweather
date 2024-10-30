@@ -22,7 +22,7 @@
       "maintainer": true
     }
   ],
-  "license": "GNU GENERAL PUBLIC LICENSE",
+  "license": "GPL-3.0-only",
   "homepage": "https://github.com/icewolf-li/qweather",
   "dependencies": {
     "ArduinoJson": "^6.19.2",
